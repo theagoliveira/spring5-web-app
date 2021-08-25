@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-Spring5webappApplication<spring5webapp>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "guru.springframework.spring5webapp.Spring5webappApplication",
+      "projectName": "spring5webapp",
+      "args": ""
+    }
+  ]
+}
